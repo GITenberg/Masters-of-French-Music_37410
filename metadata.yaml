@@ -1,0 +1,31 @@
+_repo: Masters-of-French-Music_37410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hervey, Arthur
+    birthdate: 1855
+    deathdate: 1922
+    gutenberg_agent_id: '38828'
+    url: http://www.gutenberg.org/2009/agents/38828
+description: ''
+gutenberg_issued: '2011-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37410'
+  lccn: '03022451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- France'
+- !lcc 'ML'
+tableOfContents: 'Abroise Thomas -- Charles Gounod -- Camille Saint-Saëns -- Jules
+  Massenet -- Ernest Reyer -- Alfred Bruneau -- Some other French composers -- Appendix:
+  List of the principal works composed by Ambroise Thomas, Gounod, Saint-Saëns, Massenet,
+  Reyer, and Bruneau.'
+title: Masters of French Music
+url: http://www.gutenberg.org/ebooks/37410
